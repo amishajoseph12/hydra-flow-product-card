@@ -28,6 +28,7 @@ No JavaScript or external frameworks were used.
 📁 Project Structure
 
 Hydra Flow Water Bottle Product Card
+
  -index.html
  
  -style.css
